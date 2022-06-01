@@ -1,1 +1,1 @@
-# this is a logistics regression assignment
+this is a logistics regression assignment
