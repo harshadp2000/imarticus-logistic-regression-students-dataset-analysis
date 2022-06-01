@@ -1,1 +1,1 @@
-# linear-regression-car-price-prediction
+# logistics regression assignment
