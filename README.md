@@ -1,1 +1,1 @@
-Logistics Regression with a dataset containing Student's information
+Applying Logistics Regression to the dataset containing Student's information, and draw meaningful conclusions
