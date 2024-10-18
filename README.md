@@ -1,1 +1,1 @@
-this is a logistics regression assignment
+Logistics Regression with a dataset containing Student's information
